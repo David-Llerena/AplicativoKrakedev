@@ -1,0 +1,6 @@
+configuracionIDE/
+EvidenciasDelDesarrollo/adaptive-icon.png
+EvidenciasDelDesarrollo/favicon.png
+EvidenciasDelDesarrollo/icon.png
+EvidenciasDelDesarrollo/splash.png
+EvidenciasDelDesarrollo/Manual.txt
